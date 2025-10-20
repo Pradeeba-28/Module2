@@ -18,7 +18,7 @@ print("The sum is:", add(a, b))
 
 ## Output
 
-![alt text](../../Images2/m2-3.png)
+![alt text](m2-3.png)
 
 
 ## Result

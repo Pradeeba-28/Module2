@@ -31,7 +31,8 @@ else:
 ```
 ## Output
 
-![alt text](../../Images2/m2-5.png)
+![alt text](m2-5.png)
+
 
 
 ## Result

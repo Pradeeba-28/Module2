@@ -22,7 +22,8 @@ result(a, b)
 
 ## Output
 
-![alt text](../../Images2/m2-2.png)
+![alt text](m2-2.png)
+
 
 
 ## Result

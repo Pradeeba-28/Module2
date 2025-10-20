@@ -44,7 +44,8 @@ pascals_triangle(rows)
 
 ## Output
 
-![alt text](../../Images2/m2-4.png)
+![alt text](m2-4.png)
+
 
 
 ## Result

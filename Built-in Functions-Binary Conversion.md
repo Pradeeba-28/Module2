@@ -16,8 +16,8 @@ print(bin(16))
 
 ## Output
 
+![alt text](m2-1.png)
 
-![alt text](../../Images2/m2-1.png)
 
 
 ## Result
